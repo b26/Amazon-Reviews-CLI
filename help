@@ -1,0 +1,3 @@
+sort -u -o newfile.txt oldfile.txt
+perl break.pl < oldfile > newfile
+db_load -T -t btree -c duplicates=1 -f file.txt newfile.idx

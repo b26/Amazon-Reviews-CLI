@@ -1,0 +1,2 @@
+1. lab_fruits.py : the basics
+2. duplicates: insertion of dupliactes in the database
